@@ -2,26 +2,34 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: red;
 }
 
-.div1{
+p{
+    text-align: center;
+    margin: auto;
+}
+
+/* .div1{
     width: 150px;
     height: 150px;
-    border: 7px dashed black;
-    margin-inline-start: auto;
+    border: 10px none black;
+    margin: 10px;
+    position: relative;
+    float: left;
 }
 
 .div2{
     width: 150px;
     height: 150px;
-    border: 7px groove black;
+    border: 10px dotted black;
     margin-inline-start: auto;
 }
 
 .div3{
     width: 150px;
     height: 150px;
-    border: 7px outset black;
+    border: 10px dashed black;
     margin-inline-start: auto;
 }
 
@@ -30,4 +38,4 @@
     height: 150px;
     border: 7px solid black;
     margin-left: 0 auto;
-}
+} */
