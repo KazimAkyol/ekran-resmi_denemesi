@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    width: 150px;
+    height: 150px;
+    border: 7px dashed black;
+    margin-inline-start: auto;
+}
+
+.div2{
+    width: 150px;
+    height: 150px;
+    border: 7px groove black;
+    margin-inline-start: auto;
+}
+
+.div3{
+    width: 150px;
+    height: 150px;
+    border: 7px outset black;
+    margin-inline-start: auto;
+}
+
+.div4{
+    width: 150px;
+    height: 150px;
+    border: 7px solid black;
+    margin-left: 0 auto;
+}
